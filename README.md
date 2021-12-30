@@ -1,6 +1,7 @@
 # goto-jump
 
 #include <iostream>
+#include <conio.h>
 
 using namespace std;
 int main()
@@ -23,4 +24,8 @@ int main()
 		
 		esc: cout<<" . "<<endl;
 		}
+
+	
+	
+	getch();
 }
